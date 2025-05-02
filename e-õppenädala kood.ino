@@ -1,3 +1,8 @@
+//https://www.tinkercad.com/things/6kpsQZbuvta-servo-360-mootor-kontroll-nuppude-abil/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits
+//https://projecthub.arduino.cc/Kub_Luk/using-serial-monitor-to-control-servo-motor-c55083
+//https://docs.arduino.cc/libraries/servo/#Usage/Examples
+//https://www.youtube.com/watch?v=Ngr4hej7Ed0
+
 #include <Servo.h>
 Servo myservo;
 
