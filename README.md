@@ -54,6 +54,7 @@ Mootorite õigesti tööle saamine
 
 Alguses oli vale aku mis ei toinud piisavalt
 
+Mootorid vajasid ilmselt rohkem voolu ja selle pärast ei saanud ta pikka aega sõita 
 
 ## Kokkuvõte
 
