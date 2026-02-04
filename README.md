@@ -62,13 +62,11 @@ vastuvõtja ühendamist Flysky puldiga
 
 
 
-## Pildid
+<h3>Pildid</h3>
+
 <p align="center">
-  <img src="[pildid/pilt1.jpg](https://github.com/user-attachments/assets/33f856db-ae95-4125-a36f-844f28f6b90b)" width="300">
-  <img src="[pildid/pilt2.jpg](https://github.com/user-attachments/assets/37c73681-480a-4907-9e19-eb49e1b3e114)" width="300">
-  <img src="[pildid/pilt3.jpg](https://github.com/user-attachments/assets/7f7df821-3560-4bec-92bb-1be800866e85)" width="300">
+  <img src="pilt1.jpeg" width="280" />
+  <img src="pilt2.jpeg" width="280" />
+  <img src="pilt3.jpeg" width="280" />
 </p>
-<<<![IMG_5DDB9438-5574-4816-B528-3A48E63CCB6D](https://github.com/user-attachments/assets/33f856db-ae95-4125-a36f-844f28f6b90b)
-![IMG_7573](https://github.com/user-attachments/assets/37c73681-480a-4907-9e19-eb49e1b3e114)
-![IMG_707B9816-3A74-4809-A04B-D34885A8846E](https://github.com/user-attachments/assets/7f7df821-3560-4bec-92bb-1be800866e85)
 
