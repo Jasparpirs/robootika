@@ -1,5 +1,8 @@
 # Kodustvõetud chevy z71 4x4 puldi auto 
 
+## Video
+https://www.youtube.com/shorts/h4FjJ4hnS_A
+
 ## Projekti eesmärk
 
 Projekti eesmärk oli ehitada kodust võetud Chevy Z71 4x4 puldiauto ümber Arduino-põhiseks robotiks, 
