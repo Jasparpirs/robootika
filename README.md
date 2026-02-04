@@ -49,6 +49,8 @@ Bluetoothi käskude vastuvõtmine
 
 Mootorite õigesti tööle saamine
 
+Alguses oli vale aku mis ei toinud piisavalt
+
 
 ## Kokkuvõte
 
